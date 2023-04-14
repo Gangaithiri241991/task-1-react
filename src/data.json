@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "studentname":"Aji",
+        "email":"aji@gmail.com",
+        "phone":"0954535676"
+        
+    },
+    {
+        "id":2,
+        "studentname":"Maan",
+        "email":"Maan@gmail.com",
+        "phone":"0954535676"
+    },
+
+
+    {
+        "id":3,
+        "studentname":"AjiM",
+        "email":"ajim@gmail.com",
+        "phone":"0954535676"
+    }
+
+
+
+]
